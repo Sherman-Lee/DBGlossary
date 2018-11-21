@@ -1,13 +1,11 @@
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
- <o:MainFile HRef="../DB%20glossary.html"/>
- <o:File HRef="item0001.xml"/>
- <o:File HRef="props002.xml"/>
+ <o:MainFile HRef="../index.html"/>
  <o:File HRef="themedata.thmx"/>
  <o:File HRef="image001.jpg"/>
  <o:File HRef="image002.png"/>
- <o:File HRef="image003.png"/>
+ <o:File HRef="image003.jpg"/>
  <o:File HRef="image004.png"/>
- <o:File HRef="image005.gif"/>
+ <o:File HRef="image005.png"/>
  <o:File HRef="image006.png"/>
  <o:File HRef="image007.gif"/>
  <o:File HRef="image008.png"/>
@@ -15,7 +13,7 @@
  <o:File HRef="image010.png"/>
  <o:File HRef="image011.gif"/>
  <o:File HRef="image012.png"/>
- <o:File HRef="image013.png"/>
+ <o:File HRef="image013.gif"/>
  <o:File HRef="image014.png"/>
  <o:File HRef="image015.png"/>
  <o:File HRef="image016.png"/>
@@ -23,7 +21,8 @@
  <o:File HRef="image018.png"/>
  <o:File HRef="image019.png"/>
  <o:File HRef="image020.png"/>
- <o:File HRef="image021.emz"/>
+ <o:File HRef="image021.png"/>
  <o:File HRef="image022.png"/>
+ <o:File HRef="image023.png"/>
  <o:File HRef="filelist.xml"/>
 </xml>
